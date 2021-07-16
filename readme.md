@@ -6,7 +6,7 @@ No need a database for installation , make your website very fast and SEO friend
 
 How to install ?? [read documentation  →](https://axcora.com/getaxcoracms/index.php?id=get-started)
 
-[Test Drive demo →](https://program-toko.sourceforge.io/)
+[Test Drive demo →](https://www.youtube.com/watch?v=vjqN36jhxDo)
 
 ---------------------------------
 
@@ -18,16 +18,11 @@ Software developer website template get axcora cms.
 
 Moden design using landing pages . With Home page menu, About Page , Installation Page, Documentation Page , Donation Page , PRO upgrade page , POS Product Page ,CLouds APp  Page ,and contact page.
 
-![website template themes for software developer](https://a.fsdn.com/con/app/proj/websitedev/screenshots/free%20website%20template%20themes%20%285%29.png/max/max/1)
+![website template themes for software developer](https://1.bp.blogspot.com/-83zybTJqkik/YPFptLx_TaI/AAAAAAAAP4o/tAX7qokJpusrMp0c6PyvWVuprqE_tVXfwCLcBGAsYHQ/s1440/program%2Bdeveloper%2Bwebsite%2Btemplate%2Bfree%2Bdownload.png)
 
-New generation with get axcora cms modern web apps.
-
-![website template themes for software developer](https://a.fsdn.com/con/app/proj/websitedev/screenshots/free%20website%20template%20themes%20%284%29.png/max/max/1)
-
-Simple and clean template design.
-
-![website template themes for software developer](https://a.fsdn.com/con/app/proj/websitedev/screenshots/free%20website%20template%20themes%20%283%29.png/max/max/1)
-
++ New generation with get axcora cms modern web apps.
++ Simple and clean template design.
++ 
 Contact Page include.
 
 ---------------------------------
@@ -64,7 +59,7 @@ Click on setting
 + Change website url with your url site / domain
 + Change password for security reason
 + Change title website for SEO
-And save , Your website is online now 
++ And save , Your website is online now 
 
 LOCALHOST
 
@@ -78,7 +73,7 @@ Click on setting menu
 + Change title website for SEO
 And save , Your website is online now 
 
-[Test Drive demo →](https://program-toko.sourceforge.io/)
+[Test Drive demo →](https://www.youtube.com/watch?v=vjqN36jhxDo)
 
 No need a database installation make your website very fast, and of course with SEO friendly include, simple and easy to use.
 
