@@ -14,8 +14,6 @@ How to install ?? [read documentation  →](https://axcora.com/getaxcoracms/inde
 
 Software developer website template get axcora cms.
 
-![website template themes for software developer](https://a.fsdn.com/con/app/proj/websitedev/screenshots/free%20website%20template%20themes%20%286%29.png/max/max/1)
-
 Moden design using landing pages . With Home page menu, About Page , Installation Page, Documentation Page , Donation Page , PRO upgrade page , POS Product Page ,CLouds APp  Page ,and contact page.
 
 ![website template themes for software developer](https://1.bp.blogspot.com/-83zybTJqkik/YPFptLx_TaI/AAAAAAAAP4o/tAX7qokJpusrMp0c6PyvWVuprqE_tVXfwCLcBGAsYHQ/s1440/program%2Bdeveloper%2Bwebsite%2Btemplate%2Bfree%2Bdownload.png)
@@ -31,19 +29,24 @@ Contact Page include.
 
 All in one website and application, powerfull on online mode.
 
-![website template themes for software developer](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%286%29.png/max/max/1)
+
+![new cms modern](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%285%29.png)
 
 Login Area for backend
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%285%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%284%29.png)
 
 Page and article post menu.
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%284%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%283%29.png)
 
 Create article post very simple and easy
 
-![new modern website cms](https://a.fsdn.com/con/app/proj/getaxcoracms/screenshots/New%20CMS%20modern%20website%20SEO%20%282%29.png/max/max/1)
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%282%29.png)
+
+File manager system
+
+![new modern website cms](https://axcora.com/getaxcoracms/id/data/uploads/cmswebsitebaru%20%281%29.png)
 
 Back end setting
 
